@@ -199,7 +199,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf101/proprietary/usr/xt9/keychars:system/usr/xt9/keychars \
     vendor/asus/tf101/proprietary/usr/xt9/keylayout:system/usr/xt9/keylayout \
     vendor/asus/tf201/proprietary/app/BatteryWidget.apk:system/app/BatteryWidget.apk \
-    vendor/asus/tf201/proprietary/app/EmailWidget.apk:system/app/EmailWidget.apk \
     vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
     vendor/asus/tf201/proprietary/app/Supernote.apk:system/app/Supernote.apk \
     vendor/asus/tf201/proprietary/app/Weather.apk:system/app/Weather.apk 
